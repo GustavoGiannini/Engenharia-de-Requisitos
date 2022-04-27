@@ -1,1 +1,10 @@
-Testando
+ABC-Park
+Versões E/Plus/RPS
+* Limite de vagas(ocupação do pátio)
+* Diferentes níveis de acesso
+* Configurações de impressão
+* Cópias de Segurança dos Dados
+* Rotativo(horas fracionadas)
+* Mensalistas(vários veículos e ajustes individuais)
+* Diárias pré-pagas
+* 
