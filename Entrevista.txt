@@ -1,0 +1,6 @@
+Software que monitore quantidade vagas estao ocupadas e as que estao livres
+Mais segurança - Niveis de acesso personalizados
+Automação das impreções das notinhas
+Relatórios salvos com pelo menos 15 dias de duração
+Sistema automático de soma no valor final de acordo com as horas
+Pelo meu estacionamento ser perto de grande empresas, para criar fidelidade eu quero um sistema direcionado para os mensalistas
